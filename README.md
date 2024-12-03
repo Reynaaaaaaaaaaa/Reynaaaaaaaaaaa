@@ -1,7 +1,7 @@
 # Hi there! 
 
 Software dev and data analyst in biotech
-
+Currently: [@EV Biotech](https://github.com/EVBiotechBV)
 
 Check out my favorite repo 
 (Of what I can show)
